@@ -1,5 +1,5 @@
 {
-  "name": "Remix: Serenity Spaces",
-  "description": "앱을 킨 첫 화면에 Do you want to relax? 라는 제목이 나오고 밑에 Yes 칸이 있어서 Yes를 누르면 방금 우리가 만든 앱이 나오면 좋겠어.",
+  "name": "please take a break",
+  "description": "",
   "requestFramePermissions": []
 }
